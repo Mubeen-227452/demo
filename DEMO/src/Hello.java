@@ -8,6 +8,7 @@ public class Hello {
 		System.out.println("hi aaam ");
 		System.out.println("sam");
 		System.out.println("sam");
+		System.out.println("i am from space");
 		System.out.println("thankyou ");
 
 	}
