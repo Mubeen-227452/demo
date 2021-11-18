@@ -8,13 +8,7 @@ public class Hello {
 		System.out.println("hi aaam ");
 		System.out.println("sam");
 		System.out.println("WELCOME");
-		System.out.println("sample");
-		System.out.println("sample");
-		System.out.println("sample");
-		System.out.println("sample");
-		System.out.println("sample");
-		System.out.println("sample");
-		System.out.println("thank you");
+		
 
 	}
 
